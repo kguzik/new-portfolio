@@ -9,7 +9,7 @@ const slider = (
   <AwesomeSlider animation="cubeAnimation" bullets={false} >
     {projects.map( project => 
       <div className="slider__single-slide" key={project.id}>
-        <img className="slider__single-slide--image" src={require('../assets/images' + project.imgUrl)} alt={project.name}/>
+        <img className="slider__single-slide--image" src={require('../assets/images' + project.imgUrl)} alt={project.name} key={project.id}/>
         <ul className="slider__single-slide--list">
           <LinkInList link={project.linkLive} title="Live"/>
           {project.linkGithub ? <LinkInList link={project.linkGithub} title="Github"/> : '' }
