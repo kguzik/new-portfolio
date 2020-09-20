@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bd476280cdd979aea95594b8d2a8c4d",
+    "revision": "1a7fc8b457768d5a740bd9b42357246f",
     "url": "/new-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/new-portfolio/static/css/2.25249b3f.chunk.css"
   },
   {
-    "revision": "d550e0f41a22fb79d8e3",
+    "revision": "665fdc4e170ce1c1340c",
     "url": "/new-portfolio/static/css/main.62a51276.chunk.css"
   },
   {
@@ -20,40 +20,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/new-portfolio/static/js/2.cb114d96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d550e0f41a22fb79d8e3",
-    "url": "/new-portfolio/static/js/main.5417e22c.chunk.js"
+    "revision": "665fdc4e170ce1c1340c",
+    "url": "/new-portfolio/static/js/main.967a52b6.chunk.js"
   },
   {
     "revision": "e04cf1c6ca8475607064",
     "url": "/new-portfolio/static/js/runtime-main.aea74c89.js"
   },
   {
-    "revision": "98af8ba3dad2df95b53ac02f26c001b9",
-    "url": "/new-portfolio/static/media/consulting.98af8ba3.png"
+    "revision": "94a7c51759626de0a633e22fff4c2ed5",
+    "url": "/new-portfolio/static/media/consulting.94a7c517.png"
   },
   {
-    "revision": "194c553a3a55895bcdd5bf8d7c13753d",
-    "url": "/new-portfolio/static/media/jansbud.194c553a.png"
+    "revision": "4430dab4d7144c3d73fd57440080994d",
+    "url": "/new-portfolio/static/media/jansbud.4430dab4.png"
   },
   {
-    "revision": "7c30538bd1a1b407fecf375a1af98dd7",
-    "url": "/new-portfolio/static/media/ktory-kosz.7c30538b.png"
+    "revision": "a3d08c20de1fd0c44de1daf5c3c2627f",
+    "url": "/new-portfolio/static/media/ktory-kosz.a3d08c20.png"
   },
   {
     "revision": "1322d4862048bfaf7219ed77220ab87d",
     "url": "/new-portfolio/static/media/me-blue.1322d486.png"
   },
   {
-    "revision": "b652eea79773a08e5e8e2505e6fb7e7b",
-    "url": "/new-portfolio/static/media/movie-quotes-quiz.b652eea7.png"
+    "revision": "94f978825e3fea8817cbd1df652430d6",
+    "url": "/new-portfolio/static/media/movie-quotes-quiz.94f97882.png"
   },
   {
-    "revision": "a45d539e65baea18b6a3be64ebe9502d",
-    "url": "/new-portfolio/static/media/reveil.a45d539e.png"
+    "revision": "ab139f7312728801c502893c91762ebb",
+    "url": "/new-portfolio/static/media/reveil.ab139f73.png"
   },
   {
-    "revision": "25799e7ed377667e914b056128a4bc69",
-    "url": "/new-portfolio/static/media/tazz.25799e7e.png"
+    "revision": "e4a899668aa487bfe759f8bf7a4a46fb",
+    "url": "/new-portfolio/static/media/tazz.e4a89966.png"
   },
   {
     "revision": "679ebf5145a096c2267341aac42be892",
