@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.62a51276.chunk.css",
-    "main.js": "/new-portfolio/static/js/main.967a52b6.chunk.js",
-    "main.js.map": "/new-portfolio/static/js/main.967a52b6.chunk.js.map",
+    "main.js": "/new-portfolio/static/js/main.8481da13.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.8481da13.chunk.js.map",
     "runtime-main.js": "/new-portfolio/static/js/runtime-main.aea74c89.js",
     "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.aea74c89.js.map",
     "static/css/2.25249b3f.chunk.css": "/new-portfolio/static/css/2.25249b3f.chunk.css",
     "static/js/2.cb114d96.chunk.js": "/new-portfolio/static/js/2.cb114d96.chunk.js",
     "static/js/2.cb114d96.chunk.js.map": "/new-portfolio/static/js/2.cb114d96.chunk.js.map",
     "index.html": "/new-portfolio/index.html",
-    "precache-manifest.dae5fee11e984588603b9507d22789fb.js": "/new-portfolio/precache-manifest.dae5fee11e984588603b9507d22789fb.js",
+    "precache-manifest.618d12920a180f1ff0d0c4e64c35e185.js": "/new-portfolio/precache-manifest.618d12920a180f1ff0d0c4e64c35e185.js",
     "service-worker.js": "/new-portfolio/service-worker.js",
     "static/css/2.25249b3f.chunk.css.map": "/new-portfolio/static/css/2.25249b3f.chunk.css.map",
     "static/css/main.62a51276.chunk.css.map": "/new-portfolio/static/css/main.62a51276.chunk.css.map",
     "static/js/2.cb114d96.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.cb114d96.chunk.js.LICENSE.txt",
-    "static/media/consulting.png": "/new-portfolio/static/media/consulting.94a7c517.png",
-    "static/media/jansbud.png": "/new-portfolio/static/media/jansbud.4430dab4.png",
-    "static/media/ktory-kosz.png": "/new-portfolio/static/media/ktory-kosz.a3d08c20.png",
+    "static/media/consulting.png": "/new-portfolio/static/media/consulting.aa2c7b93.png",
+    "static/media/jansbud.png": "/new-portfolio/static/media/jansbud.63b7e9cd.png",
+    "static/media/ktory-kosz.png": "/new-portfolio/static/media/ktory-kosz.554907e4.png",
     "static/media/me-blue.png": "/new-portfolio/static/media/me-blue.1322d486.png",
-    "static/media/movie-quotes-quiz.png": "/new-portfolio/static/media/movie-quotes-quiz.94f97882.png",
-    "static/media/reveil.png": "/new-portfolio/static/media/reveil.ab139f73.png",
-    "static/media/tazz.png": "/new-portfolio/static/media/tazz.e4a89966.png",
-    "static/media/weather-finder.png": "/new-portfolio/static/media/weather-finder.679ebf51.png"
+    "static/media/movie-quotes-quiz.png": "/new-portfolio/static/media/movie-quotes-quiz.f817f1f1.png",
+    "static/media/reveil.png": "/new-portfolio/static/media/reveil.37e7c77b.png",
+    "static/media/tazz.png": "/new-portfolio/static/media/tazz.c7be7af2.png",
+    "static/media/weather-finder.png": "/new-portfolio/static/media/weather-finder.a6d32fd8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aea74c89.js",
     "static/css/2.25249b3f.chunk.css",
     "static/js/2.cb114d96.chunk.js",
     "static/css/main.62a51276.chunk.css",
-    "static/js/main.967a52b6.chunk.js"
+    "static/js/main.8481da13.chunk.js"
   ]
 }
